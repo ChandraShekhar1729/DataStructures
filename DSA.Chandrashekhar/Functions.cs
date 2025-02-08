@@ -1,7 +1,8 @@
 ﻿namespace DSA.Chandrashekhar
 {
-    public class Class1
+    public class Functions
     {
-
+     
+        
     }
 }
