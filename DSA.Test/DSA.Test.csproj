@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DSA.Chandrashekhar\DSA.Chandrashekhar.csproj" />
-    <ProjectReference Include="..\DSA.Shayamli\DSA.Shayamli.csproj" />
+    <ProjectReference Include="..\DSA.Shayamli\DSA.Shyamali.csproj" />
   </ItemGroup>
 
 </Project>
